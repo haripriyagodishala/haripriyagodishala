@@ -20,9 +20,4 @@ Monitoring: Prometheus, Grafana
 
 ---
 
-## How to reach me
-- [LinkedIn](www.linkedin.com/in/haripriya-godishala)
-
----
-
 Thanks for visiting my profile!

@@ -21,7 +21,7 @@ Monitoring: Prometheus, Grafana
 ---
 
 ## How to reach me
-- [LinkedIn](https://linkedin.com/in/haripriyagodishala)
+- [LinkedIn](www.linkedin.com/in/haripriya-godishala)
 
 ---
 
